@@ -28,4 +28,20 @@ apabila semua kriteria sudah terpenuhi, data akan disimpan kedalam file json men
 <br>
 <img width="482" height="429" alt="image" src="https://github.com/user-attachments/assets/df8b8299-c958-472a-94e4-46ebe1bca45d" />
 <br>
-memanggil "data_inven()" agar menu bisa berfungsi, karena tanpa itu, koneksi antara file json dan python akan terputus, lalu perulangan "while" agar program berjalan terus menerus, "if" "elif" dan "else" sebagai penentu kelanjutan program yang akan dilanjutkan berdasarkan input
+memanggil "data_inven()" agar menu bisa berfungsi, karena tanpa itu, koneksi antara file json dan python akan terputus, lalu perulangan "while" agar program berjalan terus menerus, "if" "elif" dan "else" sebagai penentu kelanjutan program yang akan dilanjutkan berdasarkan input.
+<br>
+<img width="756" height="459" alt="image" src="https://github.com/user-attachments/assets/661ba02c-015c-4259-ab82-da7840126bf0" />
+<br>
+file json sebelum ditambahkan apa apa.
+<br>
+<img width="507" height="308" alt="image" src="https://github.com/user-attachments/assets/757ace11-6804-4119-8a24-56c4c2865bab" />
+<br>
+menambahkan isi dictionary kedalam file json.
+<br>
+<img width="405" height="345" alt="image" src="https://github.com/user-attachments/assets/5003a762-66a2-4158-af09-2954adced6cb" />
+<br>
+isi file json setelah ditambahkan isi.
+<br>
+<img width="485" height="281" alt="image" src="https://github.com/user-attachments/assets/e452f914-dde9-4929-a405-4e96136ceb0b" />
+<br>
+menggunakan fungsi melihat data untuk melihat apa yang ada di dalam file json.
